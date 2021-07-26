@@ -1,11 +1,26 @@
-body{
-    background-color: #171717;
+.bg-nav{
+    background-color: #fff;
 }
-.bg-service{
-    background-color: #212121;
+/* .home-text{
+    color: #ef5036;
+} */
+.bg-headline{
+    background-color: #f1f2f6;
 }
-.oyindamola{
-    color: #fff;
-    font-size: 36px;
-    text-decoration: none;
+.headline-margin{
+    margin: 50px 0;
+}
+.text-categories{
+    font-size: 20px;
+    font-weight: 700;
+}
+.categories{
+    background-color: #f1f2f6;
+}
+.text-categories{
+    font-size: 20px;
+    font-weight: 500;
+}
+.categories-margin{
+    margin: 20px 0;
 }
