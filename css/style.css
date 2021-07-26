@@ -24,3 +24,13 @@
 .categories-margin{
     margin: 20px 0;
 }
+.present-price{
+    font-size: 18px;
+    font-weight: 500;
+    color: #ef5036;
+    margin-right: 10px;
+}
+.old-price{
+    text-decoration: line-through;
+    color: #90908e;
+}
